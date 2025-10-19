@@ -3,7 +3,7 @@
 - I'm interested in data quality, data governance and data analysis <br>
 - My favourite tools are **Power BI**, **SQL**, **Excel** <br>
 - I'm currently volunteering with [Data for Good](https://vancouver.dataforgood.ca/), and [DAMA Vancouver](https://dama-vancouver.org/) chapter <br>
-- My hobbies are singing with a chorus, reading and 
+- My hobbies are singing with a chorus, reading and drawing
 - You can reach me by email dinarasalikh@gmail.com or via [LinkedIn](https://www.linkedin.com/in/dinara-salikhadenova/)
 
 <!--
